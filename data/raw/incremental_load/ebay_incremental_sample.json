@@ -1,0 +1,1302 @@
+[
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|278430698826|0",
+      "title": "Motorola Moto G Play 5G (2026) XT2615 64GB Blue Unlocked - Fair Condition",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "108.11",
+        "currency": "USD"
+      },
+      "seller": "garage_cell",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-03T10:44:36.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|366708053792|636361380123",
+      "title": "OnePlus 13s 5G | 512GB | 16GB RAM |  Snapdragon 8 Elite Esim Unlocked.",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "776.00",
+        "currency": "USD"
+      },
+      "seller": "multistore4all",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:40:54.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|920003574061|0",
+      "title": "Motorola Moto G Play 5G (2026) XT2615 64GB Blue Unlocked - Excellent Condition",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "128.11",
+        "currency": "USD"
+      },
+      "seller": "garage_cell",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-03T10:39:13.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|178550722216|0",
+      "title": "Samsung s26 ULTRA Unlocked 256GB Black 6.9in Android 5G Wi\u2011Fi 20MP+",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "810.00",
+        "currency": "USD"
+      },
+      "seller": "sendme_89",
+      "condition": "Open box",
+      "itemCreationDate": "2026-10-03T10:36:39.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271745|0",
+      "title": "Case for Galaxy A57 5G, Crystal Clear, Shockproof, Drop Protection",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "37.41",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271746|0",
+      "title": "Case for Samsung Galaxy A36 5G, Shockproof, Bling, Kickstand, Wrist Strap",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "33.90",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271749|0",
+      "title": "Case for Samsung Galaxy A57 5G, Wallet Card Holder, Slide Pocket, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "35.65",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271750|0",
+      "title": "Case for Samsung Galaxy A57 5G, TPU Silicone, Soft Finish, Bordeaux Violet",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "33.90",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271751|0",
+      "title": "Case for Samsung Galaxy A57, Kickstand, Bling Diamond Butterfly, Pink",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "42.65",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271753|0",
+      "title": "Phone Case for Samsung Galaxy A57 5G, Green, 2Pcs Screen Protector",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "40.69",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271754|0",
+      "title": "Case for Samsung Galaxy A57 5G, Matte, Black, Shockproof, Drop Protection",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "25.13",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271755|0",
+      "title": "Case for Motorola Razr 2026/2025, Transparent, MagSafe, Shockproof, Slim",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "44.42",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271756|0",
+      "title": "Phone Case for Samsung Galaxy A57 5G, Pink Glitter Shockproof Slim Cover",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "40.91",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271757|0",
+      "title": "Case for Samsung Galaxy S21, Forest Green, Dual Guard, drop protection",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "47.93",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271758|0",
+      "title": "Card Holder Case for Samsung Galaxy A57 5G, Wallet Design with Slots",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "39.16",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271759|0",
+      "title": "Phone Case for Samsung Galaxy A57 5G, Matte Black, Includes Screen Protector",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "33.90",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271760|0",
+      "title": "Case for Samsung Galaxy A57 5G, Waterproof, Dustproof, Built-in Screen Protectio",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "40.91",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271761|0",
+      "title": "Case for Samsung Galaxy A57 5G, Liquid Silicone, Heavy Duty, Purple",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "32.15",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271762|0",
+      "title": "Case for Motorola RAZR Plus 2024/2025/2026, Black, Belt Clip, Shockproof",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "51.37",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271763|0",
+      "title": "Protective Case for Samsung Galaxy A57 5G, Black, Includes Screen Protector",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "30.39",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271764|0",
+      "title": "Slim Case for Motorola Razr 2025, Hinge Protection, Kickstand, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "43.37",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271765|0",
+      "title": "Case for Samsung Galaxy A57, Snap On, Wireless Charging, 3D Cartoon Design",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "28.97",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271766|0",
+      "title": "Holster Combo for Motorola RAZR 2024/2025/2026, Case with Belt Clip - Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "66.99",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271767|0",
+      "title": "Case for Galaxy A57 5G, Leather, Slim Fit, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "47.93",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271768|0",
+      "title": "Phone Case for Samsung Galaxy A57-5G, Love Heart Plating, Pink",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "33.90",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271769|0",
+      "title": "Case for Motorola Razr 2026/2025/2024, Heavy Duty, Shockproof, Kickstand, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "33.20",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271770|0",
+      "title": "Kickstand Holster for Motorola Razr 2026/2025/2024, Black, Belt Design",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "44.40",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271771|0",
+      "title": "Protective Case for Samsung Galaxy A37/A36 5G/A57 5G, Rugged, Dark Green, Shockp",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "24.26",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271772|0",
+      "title": "Case for Motorola Razr 2026, Magnetic, Slim-Fit, Shockproof, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "39.16",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271773|0",
+      "title": "Fusion Clear Case for Samsung Galaxy A57 5G, Shockproof, Drop Protection",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "47.93",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271774|0",
+      "title": "Slim Case for Motorola Razr 2025, Hinge Protection, Screen Protector, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "29.87",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271775|0",
+      "title": "Cover for Motorola Razr Fold, MagSafe Compatible, Shockproof Protection",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "75.83",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271776|0",
+      "title": "Case for Motorola Razr 2025, Ultra-Thin, Matte, Shockproof, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "42.67",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271777|0",
+      "title": "Phone Case for Galaxy A57, Anti-Yellowing, Shockproof, Light Pink",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "42.67",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271778|0",
+      "title": "Case for Samsung Galaxy A57 5G, Slim Hard PC Matte, Shockproof, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "46.09",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271779|0",
+      "title": "Samsung Galaxy A57 5G Case, Built-in Screen Protector Full Body Shockproof Cover",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "44.42",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271780|0",
+      "title": "Case for Samsung Galaxy S26, Magnetic, Screen Protector, Shockproof, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "25.13",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271781|0",
+      "title": "Case for Samsung Galaxy A57, Marble Flowers, Clear TPU, Shockproof, Pink Gold",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "40.91",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271782|0",
+      "title": "Case for Samsung Galaxy A57, Black, IP68 Waterproof, Shockproof Protection",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "61.80",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271783|0",
+      "title": "Protective Case for Samsung Galaxy A57, Shockproof, Durable, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "42.67",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271784|0",
+      "title": "Ring Stand Shockproof Case for Samsung Galaxy A57 5G, Durable Protection",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "33.90",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271786|0",
+      "title": "Case for Motorola Razr 2024/2025, Screen Protector, Hinge Protection, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "44.16",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271787|0",
+      "title": "Case for Samsung Galaxy A57, Glitter Shockproof Heavy Duty Sturdy Cover",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "28.41",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271788|0",
+      "title": "Phone Case for Motorola RAZR 2026/2025/2024, Blue, Anti-Drop Protection, Card Sl",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "70.57",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271789|0",
+      "title": "Case for Motorola Razr 2026/2024/2025, Shockproof, Magnetic Kickstand, Black",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "40.91",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271790|0",
+      "title": "Black Case for Motorola Razr Ultra 2026/2025, Wallet Style",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "64.25",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271791|0",
+      "title": "Case for Motorola Razr 2025/2024, Hinge Protection & Kickstand",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "63.55",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271793|0",
+      "title": "Phone Case for Motorola RAZR 2026/2025/2024, PU Leather, Wallet, Anti-Drop, Blac",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "68.81",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271794|0",
+      "title": "Case for Moto Razr 2024/2025, Black, with 2 Pack Screen Protector",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "37.21",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_104812",
+    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "raw_payload": {
+      "itemId": "v1|407263271795|0",
+      "title": "FNTCASE Translucent Black Case for Motorola Razr 2024/2025/2026 with Kickstand",
+      "categories": [
+        {
+          "categoryId": "9355",
+          "categoryName": "Cell Phones & Smartphones"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "75.83",
+        "currency": "USD"
+      },
+      "seller": "ultimatev_59",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+    }
+  }
+]

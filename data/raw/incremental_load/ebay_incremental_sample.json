@@ -1,15 +1,16 @@
 [
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
     "raw_payload": {
-      "itemId": "v1|278430698826|0",
-      "title": "Motorola Moto G Play 5G (2026) XT2615 64GB Blue Unlocked - Fair Condition",
+      "itemId": "v1|178550826883|0",
+      "title": "for Samsung Galaxy S21 Ultra Back Glass Replacement,Oem Original Back Cover Repl",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
         },
         {
           "categoryId": "15032",
@@ -17,25 +18,53 @@
         }
       ],
       "price": {
-        "value": "108.11",
+        "value": "19.88",
         "currency": "USD"
       },
-      "seller": "garage_cell",
+      "seller": "pram-co",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T11:45:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|198685075269|0",
+      "title": "Samsung Galaxy  Z Fold 7  SM-F966U  Motherboard UNLOCKED 256GB USA With Cameras",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "300.00",
+        "currency": "USD"
+      },
+      "seller": "cynsu41",
       "condition": "Used",
-      "itemCreationDate": "2026-10-03T10:44:36.000Z"
+      "itemCreationDate": "2026-10-03T11:40:54.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
     "raw_payload": {
-      "itemId": "v1|366708053792|636361380123",
-      "title": "OnePlus 13s 5G | 512GB | 16GB RAM |  Snapdragon 8 Elite Esim Unlocked.",
+      "itemId": "v1|800752749200|0",
+      "title": "New Power Charging Port Board for Logitech UE HYPERBOOM Fix Charging Issues",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
         },
         {
           "categoryId": "15032",
@@ -43,25 +72,26 @@
         }
       ],
       "price": {
-        "value": "776.00",
+        "value": "36.26",
         "currency": "USD"
       },
-      "seller": "multistore4all",
+      "seller": "lovemoter",
       "condition": "New",
-      "itemCreationDate": "2026-10-03T10:40:54.000Z"
+      "itemCreationDate": "2026-10-03T11:33:52.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
     "raw_payload": {
-      "itemId": "v1|920003574061|0",
-      "title": "Motorola Moto G Play 5G (2026) XT2615 64GB Blue Unlocked - Excellent Condition",
+      "itemId": "v1|800752737703|0",
+      "title": "Ear Speaker Earpiece Proximity Sensor Flex Cable Replacement For Apple 13promax",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
         },
         {
           "categoryId": "15032",
@@ -69,1234 +99,1532 @@
         }
       ],
       "price": {
-        "value": "128.11",
+        "value": "13.01",
         "currency": "USD"
       },
-      "seller": "garage_cell",
+      "seller": "lovemoter",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T11:30:32.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|820199165550|0",
+      "title": "Kids Smart Watch with Fitness Tracker, Waterproof, Heart Rate/Sleep Monitor",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "35.99",
+        "currency": "USD"
+      },
+      "seller": "krausmar",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T11:59:27.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|820199165554|0",
+      "title": "Kids Waterproof Smart Watch Girls with Fitness Tracker Sports Activity",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "35.99",
+        "currency": "USD"
+      },
+      "seller": "krausmar",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T11:59:27.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|820199165555|0",
+      "title": "Smart Watch for Kids 1.85\" with Fitness Tracker, IP68 Waterproof",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "35.99",
+        "currency": "USD"
+      },
+      "seller": "krausmar",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T11:59:27.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|920003752654|0",
+      "title": "Advanced Health Smart Watch for Men with Heart Rate Monitor, Blood Oxygen",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "117.97",
+        "currency": "USD"
+      },
+      "seller": "hiro9820",
+      "condition": "New",
+      "itemCreationDate": "2026-10-03T11:55:08.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
+    "raw_payload": {
+      "itemId": "v1|257777335308|0",
+      "title": "Toshiba WINDOWS XP SP3 Satellite L35-S2194 Laptop Power Supply TESTED WORKS",
+      "categories": [
+        {
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
+        },
+        {
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
+        }
+      ],
+      "price": {
+        "value": "34.99",
+        "currency": "USD"
+      },
+      "seller": "batianin",
+      "condition": "For parts or not working",
+      "itemCreationDate": "2026-10-03T12:00:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
+    "raw_payload": {
+      "itemId": "v1|267798832683|0",
+      "title": "Dell Inspiron 3583 TOUCH i3-8145U@2.10GHz 8GB RAM 256GB NVMe No OS SD032!",
+      "categories": [
+        {
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
+        },
+        {
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
+        }
+      ],
+      "price": {
+        "value": "69.98",
+        "currency": "USD"
+      },
+      "seller": "merresale",
       "condition": "Used",
-      "itemCreationDate": "2026-10-03T10:39:13.000Z"
+      "itemCreationDate": "2026-10-03T12:00:01.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
     "raw_payload": {
-      "itemId": "v1|178550722216|0",
-      "title": "Samsung s26 ULTRA Unlocked 256GB Black 6.9in Android 5G Wi\u2011Fi 20MP+",
+      "itemId": "v1|189037504820|0",
+      "title": "ASUS TUF Gaming A16 16\u201d 165Hz Ryzen 9 270 RTX 5070 64GB RAM 1TBSSD Gaming Laptop",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
         }
       ],
       "price": {
-        "value": "810.00",
+        "value": "1615.00",
         "currency": "USD"
       },
-      "seller": "sendme_89",
-      "condition": "Open box",
-      "itemCreationDate": "2026-10-03T10:36:39.000Z"
+      "seller": "macgym1",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-03T11:57:25.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
     "raw_payload": {
-      "itemId": "v1|407263271745|0",
-      "title": "Case for Galaxy A57 5G, Crystal Clear, Shockproof, Drop Protection",
+      "itemId": "v1|287623919759|0",
+      "title": "Lenovo ThinkPad E14 Gen 2 14\" 4.4GHz i5-1135G7 16GB 256GB SSD Win11 Home",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
         }
       ],
       "price": {
-        "value": "37.41",
+        "value": "649.00",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
+      "seller": "highland-performance-systems",
+      "condition": "Good - Refurbished",
+      "itemCreationDate": "2026-10-03T11:57:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|206599370127|0",
+      "title": "STAR NOTE DISTRICT 12 FULL SET (A,B,C,D,E,F,G,H,I,J,K,L)Fancy $1 One Dollar Bill",
+      "categories": [
+        {
+          "categoryId": "40029",
+          "categoryName": "Federal Reserve Notes"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "79.95",
+        "currency": "USD"
+      },
+      "seller": "jennswin0",
+      "condition": null,
+      "itemCreationDate": "2026-10-03T11:56:37.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|920003752269|0",
+      "title": "2013 $1 Federal Reserve Replacement Note B08120481 Uncertified Ungraded",
+      "categories": [
+        {
+          "categoryId": "40029",
+          "categoryName": "Federal Reserve Notes"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "175.00",
+        "currency": "USD"
+      },
+      "seller": "frjim17",
+      "condition": null,
+      "itemCreationDate": "2026-10-03T11:54:49.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|800752797578|0",
+      "title": "1957 $1 Silver Certificate One Dollar Banknote Uncertified Ungraded Creased #17",
+      "categories": [
+        {
+          "categoryId": "40032",
+          "categoryName": "Silver Certificates"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "15.00",
+        "currency": "USD"
+      },
+      "seller": "frflo7201",
+      "condition": null,
+      "itemCreationDate": "2026-10-03T11:54:02.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|820190122208|0",
+      "title": "Big Bookends Repeater 733 733 Fancy Serial Number $1 Dollar Bill H73304733C",
+      "categories": [
+        {
+          "categoryId": "40029",
+          "categoryName": "Federal Reserve Notes"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "4.99",
+        "currency": "USD"
+      },
+      "seller": "luckimoni789",
+      "condition": null,
+      "itemCreationDate": "2026-10-03T11:53:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|206598867448|0",
+      "title": "2003 Lowe 180w powered by a Johnson 90HP Bombardier outboard",
+      "categories": [
+        {
+          "categoryId": "26434",
+          "categoryName": "Other Boats"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        }
+      ],
+      "price": {
+        "value": "11900.00",
+        "currency": "USD"
+      },
+      "seller": "tlm-sales",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-03T06:43:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|267801955079|0",
+      "title": "1996 Donzi Classic 22 454 V8 MAG HO 1995 1997 Anniversary Cuddy Daytona ZF ZX",
+      "categories": [
+        {
+          "categoryId": "80652",
+          "categoryName": "Cruisers"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        },
+        {
+          "categoryId": "31269",
+          "categoryName": "Powerboats & Motorboats"
+        }
+      ],
+      "price": {
+        "value": "34900.00",
+        "currency": "USD"
+      },
+      "seller": "gtautolounge",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-02T21:46:50.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|178549135551|0",
+      "title": "Custom Built GLEN L Toronado High-Performance Cruisiused boats for sale by owner",
+      "categories": [
+        {
+          "categoryId": "80652",
+          "categoryName": "Cruisers"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        },
+        {
+          "categoryId": "31269",
+          "categoryName": "Powerboats & Motorboats"
+        }
+      ],
+      "price": {
+        "value": "6000.00",
+        "currency": "USD"
+      },
+      "seller": "dfretwell",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-02T20:40:14.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|189033282981|0",
+      "title": "Flying Scot sailboat",
+      "categories": [
+        {
+          "categoryId": "63729",
+          "categoryName": "Sailboats Under 20 feet"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        },
+        {
+          "categoryId": "63728",
+          "categoryName": "Sailboats"
+        }
+      ],
+      "price": {
+        "value": "10000.00",
+        "currency": "USD"
+      },
+      "seller": "dou_110419",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-02T20:00:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|920002986014|0",
+      "title": "White Buffalo Gemstone Wife Statement Trendy Ring Jewelry Size 8 Sterling Silver",
+      "categories": [
+        {
+          "categoryId": "261994",
+          "categoryName": "Rings"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewelry"
+        }
+      ],
+      "price": {
+        "value": "43.39",
+        "currency": "USD"
+      },
+      "seller": "sterlingnyc",
+      "condition": "New without packaging",
+      "itemCreationDate": "2026-10-03T12:01:36.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|800752806937|0",
+      "title": "Ring Picture Jasper Gemstone Handmade 925 Sterling Silver Jewelry Size 8.5 a518",
+      "categories": [
+        {
+          "categoryId": "261994",
+          "categoryName": "Rings"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewelry"
+        }
+      ],
+      "price": {
+        "value": "10.99",
+        "currency": "USD"
+      },
+      "seller": "925silvercrowninc",
+      "condition": "New without packaging",
+      "itemCreationDate": "2026-10-03T12:00:16.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|820199168198|627002300650",
+      "title": "Real S925 Sterling Silver Chain Men 8mm Six Word Oval Beaded Link Necklace",
+      "categories": [
+        {
+          "categoryId": "261993",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewelry"
+        }
+      ],
+      "price": {
+        "value": "462.00",
+        "currency": "USD"
+      },
+      "seller": "am0375",
+      "condition": "New with packaging",
+      "itemCreationDate": "2026-10-03T12:00:12.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|860003976458|0",
+      "title": "Certified IGI 3.00 Ct Round Cut Lab Grown Diamond Halo Pendant 14k White Gold",
+      "categories": [
+        {
+          "categoryId": "261993",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewelry"
+        }
+      ],
+      "price": {
+        "value": "1799.99",
+        "currency": "USD"
+      },
+      "seller": "msfinejewels",
+      "condition": "New without packaging",
+      "itemCreationDate": "2026-10-03T12:00:09.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|820199132309|0",
+      "title": "Wrench Charm Nickel Free Handmade Dangle/Fishhook Earrings",
+      "categories": [
+        {
+          "categoryId": "50647",
+          "categoryName": "Earrings"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "15.98",
+        "currency": "USD"
+      },
+      "seller": "treasuresofthenorth207",
+      "condition": "New with tags",
+      "itemCreationDate": "2026-10-03T12:03:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|820199168153|0",
+      "title": "Purple Amethyst & Cz 925 Sterling Silver Halo Earring 1.40\" E160915",
+      "categories": [
+        {
+          "categoryId": "50647",
+          "categoryName": "Earrings"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "84.99",
+        "currency": "USD"
+      },
+      "seller": "silverjewelry_nyc",
+      "condition": "New with tags",
+      "itemCreationDate": "2026-10-03T12:00:12.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|407263416846|0",
+      "title": "Money Agate 925 Silver Plated Pendant 1.6\" Must Have Jewelry Most Beautiful JW",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "3.99",
+        "currency": "USD"
+      },
+      "seller": "jewelryworld2014",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-03T12:00:07.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|377537548377|0",
+      "title": "Ladies Jewelry Set of 7 Neclaces  10 EarRings",
+      "categories": [
+        {
+          "categoryId": "50692",
+          "categoryName": "Jewelry Sets"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "30.00",
+        "currency": "USD"
+      },
+      "seller": "pkkraftsunlimited",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-03T12:00:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|377540358280|0",
+      "title": "Sterling Silver Decade Birthday Necklace for Women",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "61.99",
+        "currency": "USD"
+      },
+      "seller": "altenba54",
+      "condition": "New with tags",
+      "itemCreationDate": "2026-10-03T12:00:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|800748300988|0",
+      "title": "Large Handmade Bead Cross Necklace Suede Back Southwestern Style 7\"",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "35.00",
+        "currency": "USD"
+      },
+      "seller": "rummagefun1963",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-03T12:00:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|257779672631|0",
+      "title": "Ete 3P Diamond Layered Wave Pink Gold Ring K10 Japan 086258",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "226.99",
+        "currency": "USD"
+      },
+      "seller": "daei-japan",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-03T11:59:52.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|377540854902|0",
+      "title": "Copper Green Turquoise Gemstone Mother Valentines New Pendant Sterling Silver",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "27.99",
+        "currency": "USD"
+      },
+      "seller": "sterlingnyc",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-03T11:59:36.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|920001510851|0",
+      "title": "45 acres, With Well and Power, 3 miles West of Loon Lake WA.  Owner finance",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "390000.00",
+        "currency": "USD"
+      },
+      "seller": "509pa_91",
+      "condition": null,
+      "itemCreationDate": "2026-10-03T07:00:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|128110787911|0",
+      "title": "***OWN 6 ACRES +/- OF LAND BORDERING AROOSTOOK RIVER IN NORTHERN MAINE***",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "58900.00",
+        "currency": "USD"
+      },
+      "seller": "alotaproperty",
+      "condition": null,
+      "itemCreationDate": "2026-10-02T17:00:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|178548681634|0",
+      "title": "1.76 Acre Residential Land, Bastin Creek Rd, Liberty, KY 42539",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "17995.00",
+        "currency": "USD"
+      },
+      "seller": "drbcollectibles",
+      "condition": null,
+      "itemCreationDate": "2026-10-02T16:48:43.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|267801258274|0",
+      "title": "tiny house off the grid on 1 acre Remote N Ca. NV. Oregon $12,000",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "12000.00",
+        "currency": "USD"
+      },
+      "seller": "orangecrateshipper",
+      "condition": null,
+      "itemCreationDate": "2026-10-02T03:12:59.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|178549255409|0",
+      "title": "Single-Family Home/Bungalow Hidden in a quiet neighborhood",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "150899.00",
+        "currency": "USD"
+      },
+      "seller": "dtjyc-78",
+      "condition": null,
+      "itemCreationDate": "2026-10-02T21:45:18.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|336823104524|0",
+      "title": "Two Story House For Sale Needs Work. $180000",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "180000.00",
+        "currency": "USD"
+      },
+      "seller": "likenewsuit",
+      "condition": null,
+      "itemCreationDate": "2026-10-02T02:30:16.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|318939103626|0",
+      "title": "house for sale real estate residential land",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "875000.00",
+        "currency": "USD"
+      },
+      "seller": "keszk0",
+      "condition": null,
+      "itemCreationDate": "2026-09-30T17:41:15.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|257773987381|0",
+      "title": "479 montview drive jasper georgia 30143",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "1200000.00",
+        "currency": "USD"
+      },
+      "seller": "vince32363",
+      "condition": null,
+      "itemCreationDate": "2026-09-29T23:21:57.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
+    "raw_payload": {
+      "itemId": "v1|860003976689|0",
+      "title": "2 PCS Parallettes Push Up Bars, Wooden Calisthenics Equipment",
+      "categories": [
+        {
+          "categoryId": "158925",
+          "categoryName": "Push Up Stands"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "28066",
+          "categoryName": "Strength Training"
+        }
+      ],
+      "price": {
+        "value": "24.15",
+        "currency": "USD"
+      },
+      "seller": "dekar_35",
       "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "itemCreationDate": "2026-10-03T12:00:15.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
     "raw_payload": {
-      "itemId": "v1|407263271746|0",
-      "title": "Case for Samsung Galaxy A36 5G, Shockproof, Bling, Kickstand, Wrist Strap",
+      "itemId": "v1|820199167700|0",
+      "title": "Push Up Bars, Heavy Duty Steel Push Up Handles with Non-Slip Base",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "158925",
+          "categoryName": "Push Up Stands"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "28066",
+          "categoryName": "Strength Training"
         }
       ],
       "price": {
-        "value": "33.90",
+        "value": "40.15",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
+      "seller": "nochozery",
       "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "itemCreationDate": "2026-10-03T12:00:06.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
     "raw_payload": {
-      "itemId": "v1|407263271749|0",
-      "title": "Case for Samsung Galaxy A57 5G, Wallet Card Holder, Slide Pocket, Black",
+      "itemId": "v1|820199167720|0",
+      "title": "Wooden Parallettes Bars for Calisthenics with Non-Slip Grip Handles",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "158925",
+          "categoryName": "Push Up Stands"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "28066",
+          "categoryName": "Strength Training"
         }
       ],
       "price": {
-        "value": "35.65",
+        "value": "20.12",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
+      "seller": "nochozery",
       "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "itemCreationDate": "2026-10-03T12:00:06.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
     "raw_payload": {
-      "itemId": "v1|407263271750|0",
-      "title": "Case for Samsung Galaxy A57 5G, TPU Silicone, Soft Finish, Bordeaux Violet",
+      "itemId": "v1|377540855426|0",
+      "title": "Push Up Board Fitness, Portable Dismountable 17 in 1 Push Up Bar at Home Gym,...",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "158925",
+          "categoryName": "Push Up Stands"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "28066",
+          "categoryName": "Strength Training"
         }
       ],
       "price": {
-        "value": "33.90",
+        "value": "29.04",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
+      "seller": "misterdollar1328",
       "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "itemCreationDate": "2026-10-03T12:00:02.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
     "raw_payload": {
-      "itemId": "v1|407263271751|0",
-      "title": "Case for Samsung Galaxy A57, Kickstand, Bling Diamond Butterfly, Pink",
+      "itemId": "v1|117444294700|0",
+      "title": "GasOne High Pressure Single Propane Burner - Outdoor Cooking with Heat Black  ",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "181386",
+          "categoryName": "Camping Stoves"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Hiking"
+        },
+        {
+          "categoryId": "181381",
+          "categoryName": "Camping Cooking Supplies"
+        },
+        {
+          "categoryId": "181385",
+          "categoryName": "Camping Stoves, Ovens & BBQs"
         }
       ],
       "price": {
-        "value": "42.65",
+        "value": "29.99",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "seller": "hensonracing_24",
+      "condition": "New other (see details)",
+      "itemCreationDate": "2026-10-03T12:00:01.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
     "raw_payload": {
-      "itemId": "v1|407263271753|0",
-      "title": "Phone Case for Samsung Galaxy A57 5G, Green, 2Pcs Screen Protector",
+      "itemId": "v1|800746099973|0",
+      "title": "Yeti Rambler 36 OZ Bottle Seafoam Teal SEE PICS Small Dent Few Scratches",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "181408",
+          "categoryName": "Canteens, Bottles & Flasks"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Hiking"
+        },
+        {
+          "categoryId": "181405",
+          "categoryName": "Water Bottles & Hydration"
         }
       ],
       "price": {
-        "value": "40.69",
+        "value": "15.00",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "seller": "nikpa6766",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-03T12:00:01.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
     "raw_payload": {
-      "itemId": "v1|407263271754|0",
-      "title": "Case for Samsung Galaxy A57 5G, Matte, Black, Shockproof, Drop Protection",
+      "itemId": "v1|189037508256|0",
+      "title": "100 Pieces Whistles with Lanyard",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "181414",
+          "categoryName": "Safety Whistles"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Hiking"
+        },
+        {
+          "categoryId": "181411",
+          "categoryName": "Outdoor Survival Gear"
         }
       ],
       "price": {
-        "value": "25.13",
+        "value": "35.51",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
+      "seller": "hisshin0",
       "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "itemCreationDate": "2026-10-03T11:59:53.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
     "raw_payload": {
-      "itemId": "v1|407263271755|0",
-      "title": "Case for Motorola Razr 2026/2025, Transparent, MagSafe, Shockproof, Slim",
+      "itemId": "v1|178550851115|0",
+      "title": "NEMO Stargaze Recliner Luxury Black Reclining Foldable Camping Chair w/ Bag",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "16038",
+          "categoryName": "Camping Furniture"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Hiking"
         }
       ],
       "price": {
-        "value": "44.42",
+        "value": "120.00",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "seller": "luciscloset",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-03T11:59:43.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods-golf",
     "raw_payload": {
-      "itemId": "v1|407263271756|0",
-      "title": "Phone Case for Samsung Galaxy A57 5G, Pink Glitter Shockproof Slim Cover",
+      "itemId": "v1|188929615248|0",
+      "title": "TaylorMade Milled Grind 3 Wedge RH 58\u00b0 NS Pro Modus 3 Tour 105 Stiff Shaft",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "115280",
+          "categoryName": "Golf Clubs"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181153",
+          "categoryName": "Golf Clubs & Equipment"
         }
       ],
       "price": {
-        "value": "40.91",
+        "value": "79.99",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "seller": "stikswap",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-03T12:03:00.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods-golf",
     "raw_payload": {
-      "itemId": "v1|407263271757|0",
-      "title": "Case for Samsung Galaxy S21, Forest Green, Dual Guard, drop protection",
+      "itemId": "v1|188929844098|0",
+      "title": "Callaway Rogue ST Max OS 7-Iron LH Elevate MPH 85 Shaft GP Tour Velvet Demo Grip",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "115280",
+          "categoryName": "Golf Clubs"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181153",
+          "categoryName": "Golf Clubs & Equipment"
         }
       ],
       "price": {
-        "value": "47.93",
+        "value": "84.97",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "seller": "stikswap",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-03T12:02:00.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods-golf",
     "raw_payload": {
-      "itemId": "v1|407263271758|0",
-      "title": "Card Holder Case for Samsung Galaxy A57 5G, Wallet Design with Slots",
+      "itemId": "v1|188929844864|0",
+      "title": "Callaway Paradym Ai Smoke HL 7-Iron RH Cypher Sixty Reg Shaft Lamkin Demo Grip",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "115280",
+          "categoryName": "Golf Clubs"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181153",
+          "categoryName": "Golf Clubs & Equipment"
         }
       ],
       "price": {
-        "value": "39.16",
+        "value": "84.97",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "seller": "stikswap",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-03T12:01:00.000Z"
     }
   },
   {
     "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
+    "batch_id": "batch_20261003_120252",
+    "ingestion_timestamp": "2026-10-03T12:02:52.850933+00:00",
+    "subcategory_partition": "sporting goods-golf",
     "raw_payload": {
-      "itemId": "v1|407263271759|0",
-      "title": "Phone Case for Samsung Galaxy A57 5G, Matte Black, Includes Screen Protector",
+      "itemId": "v1|168758685245|0",
+      "title": "Nike Dri-FIT Mens Navy Blue Flat Front Athletic Golf Shorts Size 40 Athleisure",
       "categories": [
         {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
+          "categoryId": "181139",
+          "categoryName": "Shorts"
         },
         {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181130",
+          "categoryName": "Golf Clothing, Shoes & Accessories"
+        },
+        {
+          "categoryId": "181131",
+          "categoryName": "Men's Golf Clothing & Shoes"
         }
       ],
       "price": {
-        "value": "33.90",
+        "value": "19.99",
         "currency": "USD"
       },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271760|0",
-      "title": "Case for Samsung Galaxy A57 5G, Waterproof, Dustproof, Built-in Screen Protectio",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "40.91",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271761|0",
-      "title": "Case for Samsung Galaxy A57 5G, Liquid Silicone, Heavy Duty, Purple",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "32.15",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271762|0",
-      "title": "Case for Motorola RAZR Plus 2024/2025/2026, Black, Belt Clip, Shockproof",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "51.37",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271763|0",
-      "title": "Protective Case for Samsung Galaxy A57 5G, Black, Includes Screen Protector",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "30.39",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271764|0",
-      "title": "Slim Case for Motorola Razr 2025, Hinge Protection, Kickstand, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "43.37",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271765|0",
-      "title": "Case for Samsung Galaxy A57, Snap On, Wireless Charging, 3D Cartoon Design",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "28.97",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271766|0",
-      "title": "Holster Combo for Motorola RAZR 2024/2025/2026, Case with Belt Clip - Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "66.99",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271767|0",
-      "title": "Case for Galaxy A57 5G, Leather, Slim Fit, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "47.93",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271768|0",
-      "title": "Phone Case for Samsung Galaxy A57-5G, Love Heart Plating, Pink",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "33.90",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271769|0",
-      "title": "Case for Motorola Razr 2026/2025/2024, Heavy Duty, Shockproof, Kickstand, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "33.20",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271770|0",
-      "title": "Kickstand Holster for Motorola Razr 2026/2025/2024, Black, Belt Design",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "44.40",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271771|0",
-      "title": "Protective Case for Samsung Galaxy A37/A36 5G/A57 5G, Rugged, Dark Green, Shockp",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "24.26",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271772|0",
-      "title": "Case for Motorola Razr 2026, Magnetic, Slim-Fit, Shockproof, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "39.16",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271773|0",
-      "title": "Fusion Clear Case for Samsung Galaxy A57 5G, Shockproof, Drop Protection",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "47.93",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271774|0",
-      "title": "Slim Case for Motorola Razr 2025, Hinge Protection, Screen Protector, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "29.87",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271775|0",
-      "title": "Cover for Motorola Razr Fold, MagSafe Compatible, Shockproof Protection",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "75.83",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271776|0",
-      "title": "Case for Motorola Razr 2025, Ultra-Thin, Matte, Shockproof, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "42.67",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271777|0",
-      "title": "Phone Case for Galaxy A57, Anti-Yellowing, Shockproof, Light Pink",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "42.67",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271778|0",
-      "title": "Case for Samsung Galaxy A57 5G, Slim Hard PC Matte, Shockproof, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "46.09",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271779|0",
-      "title": "Samsung Galaxy A57 5G Case, Built-in Screen Protector Full Body Shockproof Cover",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "44.42",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271780|0",
-      "title": "Case for Samsung Galaxy S26, Magnetic, Screen Protector, Shockproof, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "25.13",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271781|0",
-      "title": "Case for Samsung Galaxy A57, Marble Flowers, Clear TPU, Shockproof, Pink Gold",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "40.91",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271782|0",
-      "title": "Case for Samsung Galaxy A57, Black, IP68 Waterproof, Shockproof Protection",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "61.80",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271783|0",
-      "title": "Protective Case for Samsung Galaxy A57, Shockproof, Durable, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "42.67",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271784|0",
-      "title": "Ring Stand Shockproof Case for Samsung Galaxy A57 5G, Durable Protection",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "33.90",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271786|0",
-      "title": "Case for Motorola Razr 2024/2025, Screen Protector, Hinge Protection, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "44.16",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271787|0",
-      "title": "Case for Samsung Galaxy A57, Glitter Shockproof Heavy Duty Sturdy Cover",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "28.41",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271788|0",
-      "title": "Phone Case for Motorola RAZR 2026/2025/2024, Blue, Anti-Drop Protection, Card Sl",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "70.57",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271789|0",
-      "title": "Case for Motorola Razr 2026/2024/2025, Shockproof, Magnetic Kickstand, Black",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "40.91",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271790|0",
-      "title": "Black Case for Motorola Razr Ultra 2026/2025, Wallet Style",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "64.25",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271791|0",
-      "title": "Case for Motorola Razr 2025/2024, Hinge Protection & Kickstand",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "63.55",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271793|0",
-      "title": "Phone Case for Motorola RAZR 2026/2025/2024, PU Leather, Wallet, Anti-Drop, Blac",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "68.81",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271794|0",
-      "title": "Case for Moto Razr 2024/2025, Black, with 2 Pack Screen Protector",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "37.21",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
-    }
-  },
-  {
-    "load_type": "incremental",
-    "batch_id": "batch_20261003_104812",
-    "ingestion_timestamp": "2026-10-03T10:48:12.145176+00:00",
-    "raw_payload": {
-      "itemId": "v1|407263271795|0",
-      "title": "FNTCASE Translucent Black Case for Motorola Razr 2024/2025/2026 with Kickstand",
-      "categories": [
-        {
-          "categoryId": "9355",
-          "categoryName": "Cell Phones & Smartphones"
-        },
-        {
-          "categoryId": "15032",
-          "categoryName": "Cell Phones & Accessories"
-        }
-      ],
-      "price": {
-        "value": "75.83",
-        "currency": "USD"
-      },
-      "seller": "ultimatev_59",
-      "condition": "New",
-      "itemCreationDate": "2026-10-03T10:30:17.000Z"
+      "seller": "unwoundthreads",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-03T12:00:08.000Z"
     }
   }
 ]

@@ -97,11 +97,14 @@ def main():
     target_dir = os.path.join("data", "raw", "incremental_load")
     os.makedirs(target_dir, exist_ok=True)
     
-    output_file = os.path.join(target_dir, "ebay_incremental_sample.json")
+    # Creates a unique file per execution batch to retain previous loads
+    batch_filename = f"ebay_incremental_{batch_time.strftime('%Y%m%d_%H%M%S')}.json"
+    output_file = os.path.join(target_dir, batch_filename)
+    
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(bronze_records, f, indent=2)
 
-    print(f"\nSuccessfully collected {len(bronze_records)} items across all 14 subcategories at: {output_file}")
+    print(f"\nSuccessfully stored {len(bronze_records)} items in: {output_file}")
 
 if __name__ == "__main__":
     main()

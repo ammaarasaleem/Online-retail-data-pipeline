@@ -5,7 +5,11 @@ import requests
 from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
 
-load_dotenv()
+# Resolve repository root dynamically relative to this file
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+
+# Load environment variables (.env at project root)
+load_dotenv(os.path.join(REPO_ROOT, ".env"))
 
 CLIENT_ID = os.getenv("EBAY_CLIENT_ID")
 CLIENT_SECRET = os.getenv("EBAY_CLIENT_SECRET")
@@ -28,7 +32,12 @@ TARGET_SUBCATEGORIES = {
     "1513": "sporting goods-golf"
 }
 
+INCREMENTAL_DIR = os.path.join(REPO_ROOT, "data", "raw", "incremental_load")
+WATERMARK_FILE = os.path.join(INCREMENTAL_DIR, ".watermark.txt")
+
+
 def get_oauth_token():
+    """Fetches eBay application OAuth token via Client Credentials flow."""
     if not CLIENT_ID or not CLIENT_SECRET:
         raise ValueError("Missing EBAY_CLIENT_ID or EBAY_CLIENT_SECRET in .env file.")
         
@@ -46,19 +55,36 @@ def get_oauth_token():
     res.raise_for_status()
     return res.json()["access_token"]
 
-def fetch_subcategory_incremental(token, category_id, limit=5):
-    """Fetches real live listings created recently in the target subcategory."""
+
+def get_stored_watermark() -> str:
+    """Reads persisted watermark; defaults to 7 days lookback if first execution."""
+    if os.path.exists(WATERMARK_FILE):
+        with open(WATERMARK_FILE, "r", encoding="utf-8") as f:
+            stored = f.read().strip()
+            if stored:
+                return stored
+    default_start = datetime.now(timezone.utc) - timedelta(days=7)
+    return default_start.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+
+
+def save_watermark(new_watermark: str):
+    """Persists highest seen itemCreationDate for future incremental runs."""
+    os.makedirs(os.path.dirname(WATERMARK_FILE), exist_ok=True)
+    with open(WATERMARK_FILE, "w", encoding="utf-8") as f:
+        f.write(new_watermark)
+
+
+def fetch_subcategory_incremental(token: str, category_id: str, watermark: str, limit: int = 5):
+    """Fetches listings created after watermark timestamp."""
     url = "https://api.ebay.com/buy/browse/v1/item_summary/search"
     headers = {
         "Authorization": f"Bearer {token}",
         "Content-Type": "application/json"
     }
-    # Past 7 days window for newly listed active items
-    start_date = (datetime.now(timezone.utc) - timedelta(days=7)).strftime("%Y-%m-%dT%H:%M:%S.000Z")
     params = {
         "category_ids": category_id,
         "sort": "newlyListed",
-        "filter": f"itemCreationDate:[{start_date}..]",
+        "filter": f"itemCreationDate:[{watermark}..]",
         "limit": limit
     }
     res = requests.get(url, headers=headers, params=params)
@@ -66,18 +92,28 @@ def fetch_subcategory_incremental(token, category_id, limit=5):
         return res.json().get("itemSummaries", [])
     return []
 
+
 def main():
     token = get_oauth_token()
     batch_time = datetime.now(timezone.utc)
     batch_id = f"batch_{batch_time.strftime('%Y%m%d_%H%M%S')}"
+    
+    current_watermark = get_stored_watermark()
+    print(f"[INFO] Running incremental fetch with watermark: >= {current_watermark}")
 
     bronze_records = []
+    latest_seen_creation = current_watermark
 
     for cat_id, subcat_name in TARGET_SUBCATEGORIES.items():
-        print(f"Fetching incremental items for: {subcat_name} (ID: {cat_id})...")
-        items = fetch_subcategory_incremental(token, cat_id, limit=4)
+        print(f"Fetching: {subcat_name} (ID: {cat_id})...")
+        items = fetch_subcategory_incremental(token, cat_id, current_watermark, limit=4)
         
         for item in items:
+            item_creation = item.get("itemCreationDate")
+            if item_creation and item_creation > latest_seen_creation:
+                latest_seen_creation = item_creation
+
+            # Retains the schema structure matching your historical samples
             bronze_records.append({
                 "load_type": "incremental",
                 "batch_id": batch_id,
@@ -94,17 +130,23 @@ def main():
                 }
             })
 
-    target_dir = os.path.join("data", "raw", "incremental_load")
-    os.makedirs(target_dir, exist_ok=True)
-    
-    # Creates a unique file per execution batch to retain previous loads
+    if not bronze_records:
+        print("[INFO] No new items discovered past the current watermark.")
+        return
+
+    os.makedirs(INCREMENTAL_DIR, exist_ok=True)
     batch_filename = f"ebay_incremental_{batch_time.strftime('%Y%m%d_%H%M%S')}.json"
-    output_file = os.path.join(target_dir, batch_filename)
+    output_file = os.path.join(INCREMENTAL_DIR, batch_filename)
     
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(bronze_records, f, indent=2)
 
-    print(f"\nSuccessfully stored {len(bronze_records)} items in: {output_file}")
+    # Advance the watermark
+    save_watermark(latest_seen_creation)
+
+    print(f"\n[SUCCESS] Wrote {len(bronze_records)} records to {output_file}")
+    print(f"[SUCCESS] Advanced watermark to: {latest_seen_creation}")
+
 
 if __name__ == "__main__":
     main()

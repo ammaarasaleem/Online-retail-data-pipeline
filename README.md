@@ -1,10 +1,6 @@
 # eBay Retail Data Pipeline (Medallion Lakehouse)
 
-[![Databricks](https://img.shields.io/badge/Databricks-Lakehouse-FF3621?logo=databricks&logoColor=white)](https://databricks.com/)
-[![Apache Spark](https://img.shields.io/badge/Apache_Spark-3.4+-E25A1C?logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![Delta Lake](https://img.shields.io/badge/Delta_Lake-ACID_Transactions-00ADD8?logo=delta&logoColor=white)](https://delta.io/)
-[![Unity Catalog](https://img.shields.io/badge/Unity_Catalog-Governance-00A4E4)](https://www.databricks.com/product/unity-catalog)
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+
 
 An enterprise-grade batch and incremental data pipeline built on Databricks Lakehouse and Unity Catalog. Ingests raw eBay Browse API listing data, manages schema evolution, hashes PII to ensure GDPR/CCPA compliance, routes invalid records into a quarantine quarantine table, and performs idempotent upserts into Silver Delta tables with full audit logging.
 

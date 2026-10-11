@@ -1,0 +1,1638 @@
+[
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|227562119506|0",
+      "title": "Rear camera lens for Lenovo Tab M11 TB330FU (Grey)",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "26.18",
+        "currency": "USD"
+      },
+      "seller": "world_parts_phones",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:40:26.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|237118772501|537514635524",
+      "title": "MECHANIC UFO BGA Reballing Stencil Set 9in1 for Qualcomm MTK CPU Chip",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "53.51",
+        "currency": "USD"
+      },
+      "seller": "nourhurshid",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:39:29.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|227562118044|0",
+      "title": "Power and volume button flex cable for Lenovo Xiaoxin Pro GT 13 (TB378FC)",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "26.18",
+        "currency": "USD"
+      },
+      "seller": "world_parts_phones",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:38:39.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|237118765233|537514613059",
+      "title": "MECHANIC IRX6 Mini IC Chip Polishing Pen 37000RPM CPU NAND Grinding Tool",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "51.10",
+        "currency": "USD"
+      },
+      "seller": "nourhurshid",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:35:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|147629061259|0",
+      "title": "4-Pack Tempered Glass Screen Protector for Samsung Galaxy Watch 7/8 Ultra 47mm A",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "29.70",
+        "currency": "USD"
+      },
+      "seller": "techkey2025",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:45:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|800779054428|0",
+      "title": "2 Pack PC Hard Case with 9H Tempered Glass for Apple Watch Ultra 49mm",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "33.17",
+        "currency": "USD"
+      },
+      "seller": "techvista_5",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:45:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|800779403018|0",
+      "title": "2 Pack Protective Hard PC Cover for Apple Watch Ultra 49mm with 9H Tempered Glas",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "33.17",
+        "currency": "USD"
+      },
+      "seller": "mindm0",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:45:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|860028924635|0",
+      "title": "42mm 41mm 40mm 38mm Stainless Steel Apple Watch Band for Men, 22mm Width",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "48.77",
+        "currency": "USD"
+      },
+      "seller": "phoenix284",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:45:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
+    "raw_payload": {
+      "itemId": "v1|147629060802|0",
+      "title": "Tempered Glass Screen Protector for MacBook Pro 13-Inch (2016-2022) M1 M2 & Air",
+      "categories": [
+        {
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
+        },
+        {
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
+        }
+      ],
+      "price": {
+        "value": "40.11",
+        "currency": "USD"
+      },
+      "seller": "techkey2025",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:33:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
+    "raw_payload": {
+      "itemId": "v1|147629060795|0",
+      "title": "MacBook Pro 15 inch Screen Protector 2012-2015, Bubble Free Anti Blue Light",
+      "categories": [
+        {
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
+        },
+        {
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
+        }
+      ],
+      "price": {
+        "value": "39.43",
+        "currency": "USD"
+      },
+      "seller": "techkey2025",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:30:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
+    "raw_payload": {
+      "itemId": "v1|900005414511|0",
+      "title": "Hp ProBook 445 G7 14-inch 2020 - Ryzen 5 - 4000 Series U 8GB RAM 512GB SSD W11",
+      "categories": [
+        {
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
+        },
+        {
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
+        }
+      ],
+      "price": {
+        "value": "653.99",
+        "currency": "USD"
+      },
+      "seller": "swingcomputers",
+      "condition": "Very Good - Refurbished",
+      "itemCreationDate": "2026-10-11T09:28:33.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
+    "raw_payload": {
+      "itemId": "v1|147629060781|0",
+      "title": "Magnetic Privacy Screen for MacBook Pro 14 inch \u2013 Easy On/Off Anti-Spy Filter",
+      "categories": [
+        {
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
+        },
+        {
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
+        }
+      ],
+      "price": {
+        "value": "28.78",
+        "currency": "USD"
+      },
+      "seller": "techkey2025",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:27:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|940004454195|0",
+      "title": "1957 $1 One Dollar Silver Certificate Blue Seal Note Currency Authentic Bill 138",
+      "categories": [
+        {
+          "categoryId": "40032",
+          "categoryName": "Silver Certificates"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "12.41",
+        "currency": "USD"
+      },
+      "seller": "coins_artifacts",
+      "condition": null,
+      "itemCreationDate": "2026-10-11T09:45:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|307225685909|0",
+      "title": "Funny 40th Birthday Gifts for Men | Cool 1986 Novelty Ideas & Accessories",
+      "categories": [
+        {
+          "categoryId": "162141",
+          "categoryName": "Novelty"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        }
+      ],
+      "price": {
+        "value": "36.99",
+        "currency": "USD"
+      },
+      "seller": "edeng11",
+      "condition": null,
+      "itemCreationDate": "2026-10-11T09:28:20.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|237118751114|0",
+      "title": "2017A $20 Bill FIVE OF A KIND 5s Serial 55325557 Fancy Number VF",
+      "categories": [
+        {
+          "categoryId": "40029",
+          "categoryName": "Federal Reserve Notes"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "28.00",
+        "currency": "USD"
+      },
+      "seller": "casarios1",
+      "condition": null,
+      "itemCreationDate": "2026-10-11T09:23:09.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|237118747128|0",
+      "title": "2017A $20 Bill TRIPLE 888 TWO PAIRS 99 33 Fancy Serial 88899733 VF",
+      "categories": [
+        {
+          "categoryId": "40029",
+          "categoryName": "Federal Reserve Notes"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "29.95",
+        "currency": "USD"
+      },
+      "seller": "casarios1",
+      "condition": null,
+      "itemCreationDate": "2026-10-11T09:19:10.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|880006791161|0",
+      "title": "Black Godfrey Hurricane 191 SD with 0 Miles available now!",
+      "categories": [
+        {
+          "categoryId": "63729",
+          "categoryName": "Sailboats Under 20 feet"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        },
+        {
+          "categoryId": "63728",
+          "categoryName": "Sailboats"
+        }
+      ],
+      "price": {
+        "value": "35000.00",
+        "currency": "USD"
+      },
+      "seller": "premiermotorsportsjax",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-11T08:38:41.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|206618447298|0",
+      "title": "2026 Landau Island Breeze 23C Sport Rear Lounge Tritoon powered by a Suzuki",
+      "categories": [
+        {
+          "categoryId": "26434",
+          "categoryName": "Other Boats"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        }
+      ],
+      "price": {
+        "value": "59900.00",
+        "currency": "USD"
+      },
+      "seller": "tlm-sales",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T06:38:08.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|237118484987|0",
+      "title": "Pontoon Boat And Trailer",
+      "categories": [
+        {
+          "categoryId": "63684",
+          "categoryName": "Pontoon & Deck Boats"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        },
+        {
+          "categoryId": "31269",
+          "categoryName": "Powerboats & Motorboats"
+        }
+      ],
+      "price": {
+        "value": "3500.00",
+        "currency": "USD"
+      },
+      "seller": "terr-264423",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-11T04:33:48.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|407282004301|0",
+      "title": "Montana Boatbuilders Freestone classic drift boat kit",
+      "categories": [
+        {
+          "categoryId": "63724",
+          "categoryName": "Bass Fishing Boats"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        },
+        {
+          "categoryId": "63723",
+          "categoryName": "Fishing Boats"
+        }
+      ],
+      "price": {
+        "value": "525.00",
+        "currency": "USD"
+      },
+      "seller": "jeshi_428",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T03:50:40.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|820208753913|0",
+      "title": "STERLING SILVER RING WITH A 6mm WHITE CULTURED PEARL AND CZ HALO. SIZE 7",
+      "categories": [
+        {
+          "categoryId": "261994",
+          "categoryName": "Rings"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewelry"
+        }
+      ],
+      "price": {
+        "value": "30.00",
+        "currency": "USD"
+      },
+      "seller": "bea_c_r",
+      "condition": "New with packaging",
+      "itemCreationDate": "2026-10-11T09:45:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|820208754661|0",
+      "title": "925 Silver Link Bracelet Black Oval Stone Pav\u00e9 Accents Hook Closure Stackable",
+      "categories": [
+        {
+          "categoryId": "261988",
+          "categoryName": "Bracelets & Charms"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewelry"
+        }
+      ],
+      "price": {
+        "value": "30.00",
+        "currency": "USD"
+      },
+      "seller": "bea_c_r",
+      "condition": "Pre-owned - Good",
+      "itemCreationDate": "2026-10-11T09:45:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|920029349876|0",
+      "title": "IGI 6.40CT Pear EF/VS Lab Grown Diamond Solitaire Engagement Ring 14KYellow Gold",
+      "categories": [
+        {
+          "categoryId": "261994",
+          "categoryName": "Rings"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewelry"
+        }
+      ],
+      "price": {
+        "value": "2559.99",
+        "currency": "USD"
+      },
+      "seller": "eternaaura",
+      "condition": "New without packaging",
+      "itemCreationDate": "2026-10-11T09:42:23.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|860032506916|0",
+      "title": "925 Stirling Silver Enamel Snake Head Charm",
+      "categories": [
+        {
+          "categoryId": "261988",
+          "categoryName": "Bracelets & Charms"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewellery & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewellery"
+        }
+      ],
+      "price": {
+        "value": "13.23",
+        "currency": "USD",
+        "convertedFromValue": "10.00",
+        "convertedFromCurrency": "GBP"
+      },
+      "seller": "chris822953",
+      "condition": "Pre-owned - Excellent",
+      "itemCreationDate": "2026-10-11T09:42:10.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|407282511481|0",
+      "title": "VTG Black Bead Necklace/Clip-On Earring Lot \u2013 Nautical Pendant & Bold 80s Style",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "20.00",
+        "currency": "USD"
+      },
+      "seller": "tnttreasures2",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-11T09:43:16.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|407282510842|0",
+      "title": "SAINT LAURENT PARIS Ag925 Twisted Band Ring Gold Tone US Size 6 3.20g",
+      "categories": [
+        {
+          "categoryId": "67681",
+          "categoryName": "Rings"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "198.00",
+        "currency": "USD"
+      },
+      "seller": "yuki7jp",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-11T09:42:50.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|820227148471|0",
+      "title": "Silver Tone Cross Pendant Rope Chain Necklace 18 in Lobster Clasp Adjustable",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "7.00",
+        "currency": "USD"
+      },
+      "seller": "cindy.six",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-11T09:42:43.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|227562120942|0",
+      "title": "925 Silver Plated Huge Purple Titanium Aura Quartz Bangle FreeSize Trendy GW",
+      "categories": [
+        {
+          "categoryId": "261987",
+          "categoryName": "Bracelets & Charms"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "9.99",
+        "currency": "USD"
+      },
+      "seller": "gemsworld2014",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-11T09:42:11.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|168785123510|0",
+      "title": "925 Silver Plated Vintage Moroccan Seam Agate Necklace 18\" Most Beautiful MJ",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "10.99",
+        "currency": "USD"
+      },
+      "seller": "modernjewellery2016",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-11T09:43:08.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|820227147774|0",
+      "title": "Sky Blue Aquamarine Pendant, Cube Cut Gemstone Necklace, Gold Plated Jewelry",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "49.99",
+        "currency": "USD"
+      },
+      "seller": "marrycrystal",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-11T09:41:56.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|137833870536|0",
+      "title": "Genuine Swarovski Eliot Pendant Necklace 90cm Long Chain Crystal Jewelry Box Cer",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "154.00",
+        "currency": "USD"
+      },
+      "seller": "youdenba-japan",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-11T09:41:55.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|267810535642|0",
+      "title": "Ultra Music Festival Hype Chain Pendant Glow in Dark PETG Rave EDM",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "39.99",
+        "currency": "USD"
+      },
+      "seller": "blendedfamilyworx",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-11T09:41:33.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|920027938507|0",
+      "title": "plot of land 19,000 dollars",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "19000.00",
+        "currency": "USD"
+      },
+      "seller": "tatianakapishnikova",
+      "condition": null,
+      "itemCreationDate": "2026-10-10T21:55:41.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|189057797292|0",
+      "title": "land for sale colorado 35 acre parcel(s) in crowley county",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "68500.00",
+        "currency": "USD"
+      },
+      "seller": "prango123",
+      "condition": null,
+      "itemCreationDate": "2026-10-09T16:00:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|128124746498|0",
+      "title": "**OWN 6.4 ACRES+/- OF LAND IN NORTHERN MAINE NEXT TO LONG LAKE**",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "24900.00",
+        "currency": "USD"
+      },
+      "seller": "alotaproperty",
+      "condition": null,
+      "itemCreationDate": "2026-10-09T14:49:07.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|278445771452|0",
+      "title": "Financed -Dolan Springs, Arizona 1.00 Acre Residential Lot Parcel APN 316-03-049",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "4500.00",
+        "currency": "USD"
+      },
+      "seller": "thedealmaker650",
+      "condition": null,
+      "itemCreationDate": "2026-10-09T02:47:40.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|407279751226|0",
+      "title": "investment property for sale",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "8500.00",
+        "currency": "USD"
+      },
+      "seller": "cypressgardens",
+      "condition": null,
+      "itemCreationDate": "2026-10-10T03:51:17.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|377551384891|0",
+      "title": "real estate for sale by owner",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "170000.00",
+        "currency": "USD"
+      },
+      "seller": "dplrocco",
+      "condition": null,
+      "itemCreationDate": "2026-10-07T08:16:21.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|267806304556|0",
+      "title": "4bedrooms/5 bathrooms house for sale real estate residential",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "273000.00",
+        "currency": "USD"
+      },
+      "seller": "courtnebowe_0",
+      "condition": null,
+      "itemCreationDate": "2026-10-07T01:43:57.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|377543901482|0",
+      "title": "apartment to rent",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "845.20",
+        "currency": "USD",
+        "convertedFromValue": "1205.00",
+        "convertedFromCurrency": "CAD"
+      },
+      "seller": "elshaf52",
+      "condition": null,
+      "itemCreationDate": "2026-10-04T19:18:43.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
+    "raw_payload": {
+      "itemId": "v1|366726646163|0",
+      "title": "Marcy Fitness Equipment Mat and Floor Protector Compatible for Treadmills, El...",
+      "categories": [
+        {
+          "categoryId": "15280",
+          "categoryName": "Treadmills"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "28059",
+          "categoryName": "Cardio Equipment"
+        }
+      ],
+      "price": {
+        "value": "44.25",
+        "currency": "USD"
+      },
+      "seller": "ayelet_store4",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:42:09.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
+    "raw_payload": {
+      "itemId": "v1|407282509812|0",
+      "title": "Wrist Cuffs for Cable Machine Workouts \u2013 Padded Straps with Pink",
+      "categories": [
+        {
+          "categoryId": "185070",
+          "categoryName": "Gloves, Straps & Hooks"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "28066",
+          "categoryName": "Strength Training"
+        }
+      ],
+      "price": {
+        "value": "24.63",
+        "currency": "USD"
+      },
+      "seller": "chito_1857",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:42:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
+    "raw_payload": {
+      "itemId": "v1|407282509771|0",
+      "title": "Therapist\u2019s Choice\u00ae Professional Non-Latex Resistance Bands for 2X-Heavy, Red",
+      "categories": [
+        {
+          "categoryId": "79759",
+          "categoryName": "Resistance Trainers"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "28064",
+          "categoryName": "Fitness Equipment & Gear"
+        }
+      ],
+      "price": {
+        "value": "44.41",
+        "currency": "USD"
+      },
+      "seller": "chito_1857",
+      "condition": "New",
+      "itemCreationDate": "2026-10-11T09:41:57.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
+    "raw_payload": {
+      "itemId": "v1|377561703723|0",
+      "title": "Cast Iron Weight Plates \u00d8 25mm for Gym and Home Gym 05kg",
+      "categories": [
+        {
+          "categoryId": "179817",
+          "categoryName": "Hantelscheiben"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sport"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness & Jogging"
+        },
+        {
+          "categoryId": "28066",
+          "categoryName": "Krafttraining & Gewichte"
+        }
+      ],
+      "price": {
+        "value": "15.79",
+        "currency": "USD",
+        "convertedFromValue": "14.10",
+        "convertedFromCurrency": "EUR"
+      },
+      "seller": "bestfrance",
+      "condition": "Neu",
+      "itemCreationDate": "2026-10-11T09:41:44.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
+    "raw_payload": {
+      "itemId": "v1|137833870432|0",
+      "title": "5PCS HC-SR505 Mini Infrared PIR Sensor Detector Module Compatible with Arduino",
+      "categories": [
+        {
+          "categoryId": "16038",
+          "categoryName": "Camping-M\u00f6bel"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sport"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Outdoor"
+        }
+      ],
+      "price": {
+        "value": "29.46",
+        "currency": "USD",
+        "convertedFromValue": "26.30",
+        "convertedFromCurrency": "EUR"
+      },
+      "seller": "bestfrance",
+      "condition": "Neu",
+      "itemCreationDate": "2026-10-11T09:41:45.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
+    "raw_payload": {
+      "itemId": "v1|377561703633|0",
+      "title": "Professional Knife Sharpener 4-in-1 Sharpener for Knives and Scissors with Tungsten Carbide",
+      "categories": [
+        {
+          "categoryId": "100237",
+          "categoryName": "Sonstige Werkzeuge"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sport"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Outdoor"
+        },
+        {
+          "categoryId": "75232",
+          "categoryName": "Werkzeuge"
+        }
+      ],
+      "price": {
+        "value": "18.37",
+        "currency": "USD",
+        "convertedFromValue": "16.40",
+        "convertedFromCurrency": "EUR"
+      },
+      "seller": "bestfrance",
+      "condition": "Neu",
+      "itemCreationDate": "2026-10-11T09:41:42.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
+    "raw_payload": {
+      "itemId": "v1|377561703567|0",
+      "title": "4.5V Battery Carrier Box with Wire DC Plug 3 AA Battery Carrier with Switch",
+      "categories": [
+        {
+          "categoryId": "16037",
+          "categoryName": "Taschenlampen"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sport"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Outdoor"
+        },
+        {
+          "categoryId": "106983",
+          "categoryName": "Lampen & Laternen"
+        }
+      ],
+      "price": {
+        "value": "21.84",
+        "currency": "USD",
+        "convertedFromValue": "19.50",
+        "convertedFromCurrency": "EUR"
+      },
+      "seller": "bestfrance",
+      "condition": "Neu",
+      "itemCreationDate": "2026-10-11T09:41:41.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
+    "raw_payload": {
+      "itemId": "v1|377561703484|0",
+      "title": "Map Knife Mini Outdoor Navigation Tool Distance Caculator HU-103103 Compasses",
+      "categories": [
+        {
+          "categoryId": "52482",
+          "categoryName": "GPS-Ger\u00e4te & Kompasse"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sport"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Outdoor"
+        },
+        {
+          "categoryId": "181401",
+          "categoryName": "Wanderausr\u00fcstung"
+        }
+      ],
+      "price": {
+        "value": "25.09",
+        "currency": "USD",
+        "convertedFromValue": "22.40",
+        "convertedFromCurrency": "EUR"
+      },
+      "seller": "bestfrance",
+      "condition": "Neu",
+      "itemCreationDate": "2026-10-11T09:41:39.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods-golf",
+    "raw_payload": {
+      "itemId": "v1|227562120712|0",
+      "title": "Vtg Masters Golf Visor 80s 90s High Crown Texann Texace Augusta National USA",
+      "categories": [
+        {
+          "categoryId": "158937",
+          "categoryName": "Golf Visors & Hats"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181130",
+          "categoryName": "Golf Clothing, Shoes & Accessories"
+        }
+      ],
+      "price": {
+        "value": "48.00",
+        "currency": "USD"
+      },
+      "seller": "midcenturycollectors",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-11T09:41:52.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods-golf",
+    "raw_payload": {
+      "itemId": "v1|137833870331|0",
+      "title": "Golf Stroke Counter with Keyring Black 4.9x5.5x0.9cm Polypropylene",
+      "categories": [
+        {
+          "categoryId": "90865",
+          "categoryName": "Scorecards & Halter"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sport"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181128",
+          "categoryName": "Golfzubeh\u00f6r"
+        }
+      ],
+      "price": {
+        "value": "22.06",
+        "currency": "USD",
+        "convertedFromValue": "19.70",
+        "convertedFromCurrency": "EUR"
+      },
+      "seller": "bestfrance",
+      "condition": "Neu",
+      "itemCreationDate": "2026-10-11T09:41:43.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods-golf",
+    "raw_payload": {
+      "itemId": "v1|377561703645|0",
+      "title": "Golf Tees Heavy Duty Plastic Par-Tee High Performance Tees 5cm Blue",
+      "categories": [
+        {
+          "categoryId": "1514",
+          "categoryName": "Sonstige"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sport"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181128",
+          "categoryName": "Golfzubeh\u00f6r"
+        }
+      ],
+      "price": {
+        "value": "22.06",
+        "currency": "USD",
+        "convertedFromValue": "19.70",
+        "convertedFromCurrency": "EUR"
+      },
+      "seller": "bestfrance",
+      "condition": "Neu",
+      "itemCreationDate": "2026-10-11T09:41:43.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261011_094540",
+    "ingestion_timestamp": "2026-10-11T09:45:40.831690+00:00",
+    "subcategory_partition": "sporting goods-golf",
+    "raw_payload": {
+      "itemId": "v1|128128442025|0",
+      "title": "Golf Pencils Score Card Pens PP Pencil Refills Ball Marker Rose",
+      "categories": [
+        {
+          "categoryId": "18932",
+          "categoryName": "Handt\u00fccher"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sport"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181128",
+          "categoryName": "Golfzubeh\u00f6r"
+        }
+      ],
+      "price": {
+        "value": "22.06",
+        "currency": "USD",
+        "convertedFromValue": "19.70",
+        "convertedFromCurrency": "EUR"
+      },
+      "seller": "bestfrance",
+      "condition": "Neu mit Etikett",
+      "itemCreationDate": "2026-10-11T09:41:37.000Z"
+    }
+  }
+]

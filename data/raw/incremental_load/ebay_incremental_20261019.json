@@ -1,0 +1,1552 @@
+[
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054883098|0",
+      "title": "USB Charger Charging Port Dock Connector Flex Cable PCB Board For Xiaomi Mi CC9",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "3.48",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:32:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054879606|0",
+      "title": "OEM USB Fast Charging Port Connector Flex PCB Board For Huawei Mediapad M5 10.8\"",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "7.77",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:31:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|327413267033|0",
+      "title": "Alcatel 7 6062W 6062Z Rear Housing Cover Battery Door + Camera Lens Phone  OEM ",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "9.00",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "pavelus26",
+        "feedbackPercentage": "97.9",
+        "feedbackScore": 141
+      },
+      "condition": "For parts or not working",
+      "itemCreationDate": "2026-10-19T18:30:46.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054874621|0",
+      "title": "Ori USB Charging Port Dock Flex Cable PCB Board For Huawei Mate 9 Pro (porsche)",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "6.94",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:30:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|820256309344|0",
+      "title": "Apple iPhone 15 6.1\" OLED LCD Display Grade B OEM Replacement – Open Box",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "107.10",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "sir_kingston",
+        "feedbackPercentage": "99.0",
+        "feedbackScore": 5674
+      },
+      "condition": "Used",
+      "itemCreationDate": "2026-10-19T18:30:28.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054869439|666824974647",
+      "title": "USB Charging Charger Port Dock Flex Cable Ribbon For OnePlus 11 11R 1+11 1+11R",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "9.62",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:29:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054864756|0",
+      "title": "OEM USB Charging Port Dock Board Flex Cable Replacement For ZTE Nubia N2 NX575J",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "7.77",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:28:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|860062681112|0",
+      "title": "Apple iPhone SE 1st Generation Black LCD Screen Touchscreen Digitizer Assembly",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "35.00",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "jaco-334736",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 15
+      },
+      "condition": "For parts or not working",
+      "itemCreationDate": "2026-10-19T18:27:38.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054860352|666824787076",
+      "title": "NEW USB Charger Charging Port PCB Board Replacement For Teclast T40 Air / P50",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "11.91",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:27:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054859227|0",
+      "title": "USB Charging Port Connector Dock Mic Flex Cable PCB Board For Lenovo P70 P70-t",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "2.14",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:26:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054858099|666824701326",
+      "title": "Tablet USB Charging Port PCB Board F T30-A8 T30-A8C T30-S80 T30-M9 T30-TD TYPE-C",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "9.93",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:25:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|327413258746|0",
+      "title": "Samsung Galaxy S22 Ultra 5G SM-S908 128GB (unlocked) Main Motherboard",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "189.99",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "just*parts",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 3141
+      },
+      "condition": "Used",
+      "itemCreationDate": "2026-10-19T18:25:25.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054857187|666824809861",
+      "title": "USB Charger Charging Port Dock Mic PCB Board For Hotwav Note 16 Pro/ Note 17 Max",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "16.88",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:24:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|307239526732|0",
+      "title": "Genuine OEM Samsung Galaxy Note 8/S8 Plus Front Face Camera (Service Pack)",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "9.95",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "crazymikeelectronics",
+        "feedbackPercentage": "99.6",
+        "feedbackScore": 40143
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:23:57.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054856073|0",
+      "title": "OEM USB Charger Charging Port Flex Cable For ZTE Nubia Red Magic 8 Pro NX729J",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "13.90",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:23:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054855061|0",
+      "title": "OEM USB Charging Port Connector Board FLex Cable For Huawei Mediapad M5 8.4 Inch",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "9.32",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:22:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054853737|0",
+      "title": "USB Charger Charging Port Connector Dock MIC Flex Cable PCB Board For VIVO X21",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "4.31",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:21:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054852413|0",
+      "title": "OEM USB Charger Charging Port Flex Cable For iPad Mini 3 iPad Mini 2014 White",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "4.74",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:20:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|237132662856|0",
+      "title": "For Moto Edge+ Plus 2023 XT2301-1 OLED LCD Display Touch Screen Digitizer +Frame",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "89.95",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "xhc.ltd2020",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 1249
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:20:04.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054850453|0",
+      "title": "OEM USB Charger Charging Port JACK MIC Flex Cable Repair For iPhone 13 Black",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "10.92",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:19:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054849568|0",
+      "title": "Ori USB Charging Port Dock Connector MIC Board For Xiaomi Pocophone F1 / Poco F1",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "13.33",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:18:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|860062657592|0",
+      "title": "Rear camera lens replacement for 14 14Plus 15 15Plus wide angle glass",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "21.63",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "un_6905",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 128
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:18:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|327413255641|0",
+      "title": "Apple iPad 8th Gen 32GB A2428 Space Gray (Unlocked) Motherboard With Touch ID.",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "79.99",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "just*parts",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 3141
+      },
+      "condition": "Used",
+      "itemCreationDate": "2026-10-19T18:17:56.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|860062657328|0",
+      "title": "Back rear camera lens glass replacement for 15 and 15 plus 2 sets",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "17.79",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "un_6905",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 128
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:17:51.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|860062657337|0",
+      "title": "2-pack back rear camera lens glass replacement for 15 6.1-inch",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "21.62",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "un_6905",
+        "feedbackPercentage": "99.2",
+        "feedbackScore": 128
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:17:51.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054846848|0",
+      "title": "USB Fast Charging Port Dock MIC Flex Board Replacement For Xiaomi Redmi 12 5G",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "6.86",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:17:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054842193|666824937665",
+      "title": "USB Charger Charging Port Connector Dock Repair For ZTE Nubia Z50 / Z50S /NX711J",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "2.97",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:16:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|940026088085|0",
+      "title": "Genuine OEM Samsung Galaxy Note 8/S8 Plus Iris Scanner Module (Service Pack)",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "10.95",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "crazymikeelectronics",
+        "feedbackPercentage": "99.6",
+        "feedbackScore": 40143
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:16:13.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054841155|0",
+      "title": "USB Charging Port Connector Flex Cable Board For Lenovo Tablet Pad Yoga 8 B6000",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "3.82",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:15:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|237132657949|537527312523",
+      "title": "OLED Display Touch Screen Digitizer For Samsung Galaxy Note 10 Plus N975U N976U",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "62.98",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "xhc.ltd2020",
+        "feedbackPercentage": "99.7",
+        "feedbackScore": 1249
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:14:47.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054837908|0",
+      "title": "USB Charging Port Connector Dock Flex FPC PCB Board For Xiaomi Redmi K30 (5G)",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "2.70",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:14:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054836722|0",
+      "title": "USB Charger Charging Port Connector Microphone Flex Cable Board For Xiaomi Mi 5S",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "4.08",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:13:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|336852670580|0",
+      "title": "Cracked OLED Screen Replacement For Apple  iPhone 17 Pro Max | LL661-56050",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "49.99",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "purpletechnado",
+        "feedbackPercentage": "99.9",
+        "feedbackScore": 94280
+      },
+      "condition": "For parts or not working",
+      "itemCreationDate": "2026-10-19T18:12:50.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054835415|0",
+      "title": "USB Charging Port Connector Dock PCB Board Flex Cable For Lenovo Vibe K5 A6020",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "8.93",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:12:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054833680|0",
+      "title": "USB Charger Charging Port Connector Dock Flex For OPPO Realme GT Explorer Master",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "6.90",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:11:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|327413240871|0",
+      "title": "Samsung S26+ Plus SM-S947 USB-C Charging Port SIM Board OEM Replacement Part",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "26.99",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "joesge",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 24136
+      },
+      "condition": "Open box",
+      "itemCreationDate": "2026-10-19T18:11:03.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054825464|0",
+      "title": "USB Charging Port Connector Dock Flex Cable PCB Board For Xiaomi Redmi Note 5A",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "2.64",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:10:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|377582915238|645868133733",
+      "title": "For Samsung Galaxy A06 SM-A065F A065M LCD Display Digitizer Touch Screen ±Frame",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "19.98",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "touchlcd01",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 556
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:09:41.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|327413235230|0",
+      "title": "Samsung Galaxy S26+ EB-BS946ABY Battery 4900mAh SM-S947 OEM Replacement Part",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "29.99",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "joesge",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 24136
+      },
+      "condition": "Used",
+      "itemCreationDate": "2026-10-19T18:09:36.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054821155|0",
+      "title": "USB Fast Charging Charger Port Flex Cable PCB Board For Xiaomi Redmi K40 Gaming",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "23.03",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:09:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|137857664747|0",
+      "title": "iPhone 16 Plus LCD Read",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "48.00",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "riff007",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 28
+      },
+      "condition": "Used",
+      "itemCreationDate": "2026-10-19T18:08:45.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054818401|0",
+      "title": "OEM USB Charger Charging Port Connector Dock Flex Cable For ZTE Nubia Z40 Pro",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "10.36",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:08:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054816238|0",
+      "title": "USB Charging Port Connector Dock PCB Board Flex Cable For Meizu M5S Meilan 5S",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "4.77",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:07:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054815131|0",
+      "title": "Ori Fast Charging USB Port Dock Mic Flex PCB Board Replacement For Huawei Nova 4",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "3.45",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:06:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|920054812732|0",
+      "title": "USB Charging Port Connector Dock MIC Volume Flex Cable Ribbon For OPPO A37 A37M",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "4.41",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "c13528-61",
+        "feedbackPercentage": "0.0",
+        "feedbackScore": 0
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:05:30.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|820256227818|0",
+      "title": "Small Precision Screwdriver Set, Mini Repair Tool Kit for Phone, PC, Computer...",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "16.97",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "yaaro-45",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 782
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:04:49.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|820256227825|0",
+      "title": "22Pcs Precision Screwdriver Set Repair Tool Cleaning kit for iPhone 6 6S 7 8 ...",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "15.01",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "yaaro-45",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 782
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:04:49.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|840038387358|0",
+      "title": "Replacement For Google Pixel 3A XL 6.0'' OLED LCD Display Touch Screen Digitizer",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "46.99",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "phoneparts-fix",
+        "feedbackPercentage": "100.0",
+        "feedbackScore": 3599
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:04:42.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|820256227556|0",
+      "title": "Mobile Cell Phone Repair Tools Kit 7 Pieces Antistatic Spudger Plastic & Meta...",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "15.47",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "yaaro-45",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 782
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:04:39.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261019_183619",
+    "ingestion_timestamp": "2026-10-19T18:36:19.875Z",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|820256227458|0",
+      "title": "for iPhone Xs Complete Full Screws Set Replacement",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "15.81",
+        "currency": "USD"
+      },
+      "seller": {
+        "username": "yaaro-45",
+        "feedbackPercentage": "99.8",
+        "feedbackScore": 782
+      },
+      "condition": "New",
+      "itemCreationDate": "2026-10-19T18:04:34.000Z"
+    }
+  }
+]

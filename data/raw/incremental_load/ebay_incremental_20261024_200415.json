@@ -1,0 +1,1638 @@
+[
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|960110671548|0",
+      "title": "Incell For iPhone 14 Pro Max LCD Display Touch Screen Digitizer Replacement",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "20.00",
+        "currency": "USD"
+      },
+      "seller": "bush051",
+      "condition": "New",
+      "itemCreationDate": "2026-10-24T19:58:54.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|287676024829|0",
+      "title": "LCD Display Touchscreen W/Frame For Samsung Galaxy A02S (A025U/2020) US Version",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "22.95",
+        "currency": "USD"
+      },
+      "seller": "crazymikeelectronics",
+      "condition": "New",
+      "itemCreationDate": "2026-10-24T19:55:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|307247653407|0",
+      "title": "Samsung Galaxy Z Flip3 F711U Screen AMOLED Cream Original OEM BAD HINGE CABLE",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "79.95",
+        "currency": "USD"
+      },
+      "seller": "cellguy215",
+      "condition": "For parts or not working",
+      "itemCreationDate": "2026-10-24T19:53:41.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "cell phones and accessories-cell phones & smartphone parts",
+    "raw_payload": {
+      "itemId": "v1|307247649814|0",
+      "title": "LCD Display Touchscreen For Samsung Galaxy A02S (A025U / 2020) (US Version)",
+      "categories": [
+        {
+          "categoryId": "43304",
+          "categoryName": "Cell Phone & Smartphone Parts"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "17.95",
+        "currency": "USD"
+      },
+      "seller": "crazymikeelectronics",
+      "condition": "New",
+      "itemCreationDate": "2026-10-24T19:49:48.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|880047543799|0",
+      "title": "Ultra 3 Smart Watch 49mm Silver Metal Case Orange Band BT Call Wireless Charge",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "29.99",
+        "currency": "USD"
+      },
+      "seller": "brand_marcket",
+      "condition": "New",
+      "itemCreationDate": "2026-10-24T19:59:13.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|366758988137|0",
+      "title": "Samsung Galaxy Watch 6 Classic SM-R960 Smartwatch 47mm Bluetooth - Black",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "79.99",
+        "currency": "USD"
+      },
+      "seller": "bigdeals125",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T19:58:29.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|900038108292|0",
+      "title": "Unlocked Apple Watch SE 1 44MM Space Gray Aluminum Black Nike Sport Loop A2354",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "59.99",
+        "currency": "USD"
+      },
+      "seller": "paymore_milwaukee",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T19:58:25.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "cell phones and accessories-smartwatches",
+    "raw_payload": {
+      "itemId": "v1|407313967002|0",
+      "title": "Brown Wrapping Paper Roll 17.8\"\u00d71,200\"(100') Kraft Paper for Craft Gift Bulletin",
+      "categories": [
+        {
+          "categoryId": "178893",
+          "categoryName": "Smart Watches"
+        },
+        {
+          "categoryId": "15032",
+          "categoryName": "Cell Phones & Accessories"
+        }
+      ],
+      "price": {
+        "value": "10.95",
+        "currency": "USD"
+      },
+      "seller": "zeminexstore",
+      "condition": "New",
+      "itemCreationDate": "2026-10-24T19:56:54.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
+    "raw_payload": {
+      "itemId": "v1|267822972273|0",
+      "title": "Dell Inspiron 16 7630 2-in-1 Laptop \u2013 Intel Core i7 \u2013 Silver",
+      "categories": [
+        {
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
+        },
+        {
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
+        }
+      ],
+      "price": {
+        "value": "300.00",
+        "currency": "USD"
+      },
+      "seller": "willacahir",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T20:00:59.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
+    "raw_payload": {
+      "itemId": "v1|147650457584|0",
+      "title": "HP Laptop Model 15EF2047nr For Parts No Hard Drive Bios & Cmos Problems Mouse",
+      "categories": [
+        {
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
+        },
+        {
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
+        }
+      ],
+      "price": {
+        "value": "69.00",
+        "currency": "USD"
+      },
+      "seller": "plasticdetox77",
+      "condition": "For parts or not working",
+      "itemCreationDate": "2026-10-24T20:00:45.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
+    "raw_payload": {
+      "itemId": "v1|820274015310|0",
+      "title": "Acer Nitro 5 AN515-51 15.6'' 1TB SSD Intel Core i7-7700HQ  16GB RAM GTX1050",
+      "categories": [
+        {
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
+        },
+        {
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
+        }
+      ],
+      "price": {
+        "value": "350.00",
+        "currency": "USD"
+      },
+      "seller": "nyjesus",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T20:00:44.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "coin & paper money-bullion",
+    "raw_payload": {
+      "itemId": "v1|800834148365|0",
+      "title": "APPLE MACBOOK AIR - A3113 (VA5020048)",
+      "categories": [
+        {
+          "categoryId": "177",
+          "categoryName": "PC Laptops & Netbooks"
+        },
+        {
+          "categoryId": "58058",
+          "categoryName": "Computers/Tablets & Networking"
+        },
+        {
+          "categoryId": "175672",
+          "categoryName": "Laptops & Netbooks"
+        }
+      ],
+      "price": {
+        "value": "599.99",
+        "currency": "USD"
+      },
+      "seller": "valley_pawn_harrisonburg",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T20:00:18.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|960107501615|0",
+      "title": "2017 G Star Note FANCY SERIAL NUMBER ONE DOLLAR Bill Regular Run",
+      "categories": [
+        {
+          "categoryId": "40029",
+          "categoryName": "Federal Reserve Notes"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "4.24",
+        "currency": "USD"
+      },
+      "seller": "ddcollectables.store",
+      "condition": null,
+      "itemCreationDate": "2026-10-24T20:04:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|820264531142|0",
+      "title": "Series 1976 USPS Cancelled 1976 Stamp Spirit of 76 $2 Dollar Bill F38187295A",
+      "categories": [
+        {
+          "categoryId": "40029",
+          "categoryName": "Federal Reserve Notes"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "35.99",
+        "currency": "USD"
+      },
+      "seller": "luckimoni789",
+      "condition": null,
+      "itemCreationDate": "2026-10-24T20:03:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|147650457645|0",
+      "title": "500 Lempiras Honduras 2022 Leader Serial",
+      "categories": [
+        {
+          "categoryId": "40029",
+          "categoryName": "Federal Reserve Notes"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "1500.00",
+        "currency": "USD"
+      },
+      "seller": "selel_25",
+      "condition": null,
+      "itemCreationDate": "2026-10-24T20:00:55.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "coin & paper money-us paper money",
+    "raw_payload": {
+      "itemId": "v1|960107501829|0",
+      "title": "Mini Repeater Fancy Serial Number One Dollar bill K03468468C",
+      "categories": [
+        {
+          "categoryId": "40029",
+          "categoryName": "Federal Reserve Notes"
+        },
+        {
+          "categoryId": "3412",
+          "categoryName": "Paper Money: US"
+        },
+        {
+          "categoryId": "11116",
+          "categoryName": "Coins & Paper Money"
+        },
+        {
+          "categoryId": "40028",
+          "categoryName": "Small Size Notes"
+        }
+      ],
+      "price": {
+        "value": "4.25",
+        "currency": "USD"
+      },
+      "seller": "ddcollectables.store",
+      "condition": null,
+      "itemCreationDate": "2026-10-24T20:00:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|257815770658|0",
+      "title": "2006 Polar 2300 w/ twin Yamaha 150s and trailer",
+      "categories": [
+        {
+          "categoryId": "80652",
+          "categoryName": "Cruisers"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        },
+        {
+          "categoryId": "31269",
+          "categoryName": "Powerboats & Motorboats"
+        }
+      ],
+      "price": {
+        "value": "42000.00",
+        "currency": "USD"
+      },
+      "seller": "n8beezy",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T19:58:21.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|880047079542|0",
+      "title": "2003 maritime skiff model 1890 (18.5\u2019)",
+      "categories": [
+        {
+          "categoryId": "63725",
+          "categoryName": "Inshore Saltwater Fishing"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        },
+        {
+          "categoryId": "63723",
+          "categoryName": "Fishing Boats"
+        }
+      ],
+      "price": {
+        "value": "11500.00",
+        "currency": "USD"
+      },
+      "seller": "7-even",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T16:02:25.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|840055534463|0",
+      "title": "1992 Chris Craft Caper Boat",
+      "categories": [
+        {
+          "categoryId": "80652",
+          "categoryName": "Cruisers"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        },
+        {
+          "categoryId": "31269",
+          "categoryName": "Powerboats & Motorboats"
+        }
+      ],
+      "price": {
+        "value": "4500.00",
+        "currency": "USD"
+      },
+      "seller": "ah10289",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T15:39:28.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "eBay Motor-Other Vehicles & Trailers",
+    "raw_payload": {
+      "itemId": "v1|267822778936|0",
+      "title": "It's a Freakin' Hovercraft",
+      "categories": [
+        {
+          "categoryId": "26434",
+          "categoryName": "Other Boats"
+        },
+        {
+          "categoryId": "6000",
+          "categoryName": "eBay Motors"
+        },
+        {
+          "categoryId": "26429",
+          "categoryName": "Boats"
+        }
+      ],
+      "price": {
+        "value": "6500.00",
+        "currency": "USD"
+      },
+      "seller": "gshomerun",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T15:02:38.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|960108161717|0",
+      "title": "925 Silver Oval Chrome Diopside Stone Engagement Vintage Mother Pendant Jewelry",
+      "categories": [
+        {
+          "categoryId": "261993",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewelry"
+        }
+      ],
+      "price": {
+        "value": "91.99",
+        "currency": "USD"
+      },
+      "seller": "priyaenterprises123",
+      "condition": "New without packaging",
+      "itemCreationDate": "2026-10-24T20:04:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|307246853595|0",
+      "title": "15x20 mm South Sea Baroque Natural Purple 18 \" Pearl Necklace 14k Gold P",
+      "categories": [
+        {
+          "categoryId": "261993",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewellery & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewellery"
+        }
+      ],
+      "price": {
+        "value": "11.17",
+        "currency": "USD",
+        "convertedFromValue": "8.35",
+        "convertedFromCurrency": "GBP"
+      },
+      "seller": "anna201218",
+      "condition": "New without packaging",
+      "itemCreationDate": "2026-10-24T20:03:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|960108160989|0",
+      "title": "Oval Natural Dragon Bloodstone Hook Dangle Drop Earrings Jewelry Sterling Silver",
+      "categories": [
+        {
+          "categoryId": "261990",
+          "categoryName": "Earrings"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewelry"
+        }
+      ],
+      "price": {
+        "value": "89.99",
+        "currency": "USD"
+      },
+      "seller": "priyaenterprises123",
+      "condition": "New without packaging",
+      "itemCreationDate": "2026-10-24T20:02:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelery and watches-fine jewelery",
+    "raw_payload": {
+      "itemId": "v1|198742666885|0",
+      "title": "Ed Levin E.L. Designs Sterling Silver Endless Braid Earrings Medium 4.55g",
+      "categories": [
+        {
+          "categoryId": "261990",
+          "categoryName": "Earrings"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "4196",
+          "categoryName": "Fine Jewelry"
+        }
+      ],
+      "price": {
+        "value": "149.00",
+        "currency": "USD"
+      },
+      "seller": "fourwors",
+      "condition": "Pre-owned - Excellent",
+      "itemCreationDate": "2026-10-24T20:01:09.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|900036975068|0",
+      "title": "Copper Psilomelane Gemstone Rainbow Moonstone Anniversary Wire Wrapped Pendant",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "75.99",
+        "currency": "USD"
+      },
+      "seller": "madonna-jewels",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-24T20:04:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|198737205614|0",
+      "title": "S 925 Sterling Silver CZ Link Bracelet 7\" - 8\" Interlocking Hearts",
+      "categories": [
+        {
+          "categoryId": "261987",
+          "categoryName": "Bracelets & Charms"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "34.98",
+        "currency": "USD"
+      },
+      "seller": "x-marks-the-spot",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-24T20:03:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|900036974896|0",
+      "title": "Peanut Wood Jasper Gemstone Rainbow Moonstone Daughter Pendant Jewelry Copper",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "85.49",
+        "currency": "USD"
+      },
+      "seller": "madonna-jewels",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-24T20:03:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelry and watches-fashion jewelery",
+    "raw_payload": {
+      "itemId": "v1|198734495932|0",
+      "title": "925 Sterling Silver Vermeil CZ Stud Earrings 4.5 mm",
+      "categories": [
+        {
+          "categoryId": "50647",
+          "categoryName": "Earrings"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "24.98",
+        "currency": "USD"
+      },
+      "seller": "x-marks-the-spot",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-24T20:02:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|900036975068|0",
+      "title": "Copper Psilomelane Gemstone Rainbow Moonstone Anniversary Wire Wrapped Pendant",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "75.99",
+        "currency": "USD"
+      },
+      "seller": "madonna-jewels",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-24T20:04:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|900036974896|0",
+      "title": "Peanut Wood Jasper Gemstone Rainbow Moonstone Daughter Pendant Jewelry Copper",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "85.49",
+        "currency": "USD"
+      },
+      "seller": "madonna-jewels",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-24T20:03:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|307246982335|0",
+      "title": "Oval Australian Chrome Chalcedony Stone Rainbow Moonstone Pendant Jewelry Copper",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "83.59",
+        "currency": "USD"
+      },
+      "seller": "madonna-jewels",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-24T20:02:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "jewelry and watches-kids jewelry",
+    "raw_payload": {
+      "itemId": "v1|307246982085|0",
+      "title": "Eudialyte Gemstone Rainbow Moonstone New Wire Wrapped Anniversary Pendant Copper",
+      "categories": [
+        {
+          "categoryId": "155101",
+          "categoryName": "Necklaces & Pendants"
+        },
+        {
+          "categoryId": "281",
+          "categoryName": "Jewelry & Watches"
+        },
+        {
+          "categoryId": "10968",
+          "categoryName": "Fashion Jewelry"
+        }
+      ],
+      "price": {
+        "value": "81.69",
+        "currency": "USD"
+      },
+      "seller": "madonna-jewels",
+      "condition": "New without tags",
+      "itemCreationDate": "2026-10-24T20:01:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|307246863968|0",
+      "title": "5 Acres Of Land in Black hawk CO. 100% Mineral rights Zoned RR hike live explore",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "147000.00",
+        "currency": "USD"
+      },
+      "seller": "game4u2",
+      "condition": null,
+      "itemCreationDate": "2026-10-24T07:17:45.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|900036525939|0",
+      "title": "Panama City Florida.  Vacant Land, 0.52 Acre",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "58500.00",
+        "currency": "USD"
+      },
+      "seller": "kencle20",
+      "condition": null,
+      "itemCreationDate": "2026-10-24T04:23:52.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|206649189795|0",
+      "title": "Vacant Land Lot in Cherokee Village, AR \u2013 MISSOURI Lot 10 Block 06 \u2013 As-Is Quitc",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "399.00",
+        "currency": "USD"
+      },
+      "seller": "picolottoproperties",
+      "condition": null,
+      "itemCreationDate": "2026-10-23T23:50:58.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "real estate-commercial real estate",
+    "raw_payload": {
+      "itemId": "v1|206649180379|0",
+      "title": "Vacant Land Lot in Cherokee Village, AR \u2013 DINEH Lot 59 Block 03 \u2013 As-Is Quitcla",
+      "categories": [
+        {
+          "categoryId": "15841",
+          "categoryName": "Land"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "399.00",
+        "currency": "USD"
+      },
+      "seller": "picolottoproperties",
+      "condition": null,
+      "itemCreationDate": "2026-10-23T23:49:02.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|327416443496|0",
+      "title": "House For Sale By Owner: 1403 N. 54th St East St. Louis IL 62204 2/1 1064 Sq. Ft",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "26000.00",
+        "currency": "USD"
+      },
+      "seller": "vrogers82",
+      "condition": null,
+      "itemCreationDate": "2026-10-21T15:32:23.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|128143225730|0",
+      "title": "Exquisite Move-In-Ready Tiny Home for Sale  Gently and respectfully pre-owned",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "75000.00",
+        "currency": "USD"
+      },
+      "seller": "lee.rebec",
+      "condition": null,
+      "itemCreationDate": "2026-10-18T22:48:43.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|267816776292|0",
+      "title": "Lake Conroe Home For Sale",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "400000.00",
+        "currency": "USD"
+      },
+      "seller": "503coll",
+      "condition": null,
+      "itemCreationDate": "2026-10-18T07:28:04.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "real estate-residential real estate",
+    "raw_payload": {
+      "itemId": "v1|377543901482|0",
+      "title": "apartment to rent",
+      "categories": [
+        {
+          "categoryId": "12605",
+          "categoryName": "Residential"
+        },
+        {
+          "categoryId": "10542",
+          "categoryName": "Real Estate"
+        }
+      ],
+      "price": {
+        "value": "860.53",
+        "currency": "USD",
+        "convertedFromValue": "1205.00",
+        "convertedFromCurrency": "CAD"
+      },
+      "seller": "elshaf52",
+      "condition": null,
+      "itemCreationDate": "2026-10-04T19:18:43.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
+    "raw_payload": {
+      "itemId": "v1|287676030614|0",
+      "title": "Umbro Ireland Training Soccer Jersey Mens M White Eircom FAI Football Shirt",
+      "categories": [
+        {
+          "categoryId": "59368",
+          "categoryName": "Tops & Jerseys"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "40884",
+          "categoryName": "Men's Clothing"
+        },
+        {
+          "categoryId": "158913",
+          "categoryName": "Clothing & Accessories"
+        }
+      ],
+      "price": {
+        "value": "21.16",
+        "currency": "USD"
+      },
+      "seller": "endlessfindsbyjeff",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-24T20:01:40.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
+    "raw_payload": {
+      "itemId": "v1|267822972214|0",
+      "title": "Pair Vintage Gold's Gym Twist On Dumbbell Bars 13.75\" w/ Collars & Rubber Washer",
+      "categories": [
+        {
+          "categoryId": "137865",
+          "categoryName": "Dumbbells"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "28066",
+          "categoryName": "Strength Training"
+        }
+      ],
+      "price": {
+        "value": "39.00",
+        "currency": "USD"
+      },
+      "seller": "vintagefind131",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T20:00:54.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
+    "raw_payload": {
+      "itemId": "v1|860080086007|0",
+      "title": "Oura Ring (GEN 5) Size 10 Gold/Ore New Open Box **Unsealed**",
+      "categories": [
+        {
+          "categoryId": "179798",
+          "categoryName": "Activity Trackers"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "44075",
+          "categoryName": "Fitness Technology"
+        }
+      ],
+      "price": {
+        "value": "359.99",
+        "currency": "USD"
+      },
+      "seller": "pugasales",
+      "condition": "New other (see details)",
+      "itemCreationDate": "2026-10-24T20:00:13.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods- fitness, running and yoga",
+    "raw_payload": {
+      "itemId": "v1|377595009424|0",
+      "title": "Garmin vivoactive 3 GPS Smartwatch Heart Rate Bluetooth 43mm White/Gold",
+      "categories": [
+        {
+          "categoryId": "75230",
+          "categoryName": "GPS & Running Watches"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "15273",
+          "categoryName": "Fitness, Running & Yoga"
+        },
+        {
+          "categoryId": "44075",
+          "categoryName": "Fitness Technology"
+        }
+      ],
+      "price": {
+        "value": "40.00",
+        "currency": "USD"
+      },
+      "seller": "bcmik54",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T20:00:03.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
+    "raw_payload": {
+      "itemId": "v1|900038112149|0",
+      "title": "Coleman Fuel Gauge Easy-to-Read Digital Display for 14 oz & 16 oz Cylinders",
+      "categories": [
+        {
+          "categoryId": "181389",
+          "categoryName": "Camping Cooking Parts & Repair"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Hiking"
+        },
+        {
+          "categoryId": "181381",
+          "categoryName": "Camping Cooking Supplies"
+        },
+        {
+          "categoryId": "181385",
+          "categoryName": "Camping Stoves, Ovens & BBQs"
+        }
+      ],
+      "price": {
+        "value": "10.00",
+        "currency": "USD"
+      },
+      "seller": "gcg_199",
+      "condition": "New",
+      "itemCreationDate": "2026-10-24T20:00:50.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
+    "raw_payload": {
+      "itemId": "v1|227581987167|0",
+      "title": "Katadyn Hiker Microfilter Water Filter Purifier - Backcountry Series",
+      "categories": [
+        {
+          "categoryId": "181407",
+          "categoryName": "Portable Water Filters"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Hiking"
+        },
+        {
+          "categoryId": "181405",
+          "categoryName": "Water Bottles & Hydration"
+        }
+      ],
+      "price": {
+        "value": "45.00",
+        "currency": "USD"
+      },
+      "seller": "larimmy",
+      "condition": "New",
+      "itemCreationDate": "2026-10-24T20:00:29.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
+    "raw_payload": {
+      "itemId": "v1|336861269883|0",
+      "title": "Fighting Eel Green/White Floral Waist Pack Zip Adjustable Strap 2 Pockets OS NWT",
+      "categories": [
+        {
+          "categoryId": "181380",
+          "categoryName": "Waist Packs & Bags"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Hiking"
+        },
+        {
+          "categoryId": "181378",
+          "categoryName": "Hiking Backpacks"
+        }
+      ],
+      "price": {
+        "value": "45.99",
+        "currency": "USD"
+      },
+      "seller": "aidans77",
+      "condition": "New with tags",
+      "itemCreationDate": "2026-10-24T20:00:20.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods-camping and hiking",
+    "raw_payload": {
+      "itemId": "v1|168814257678|0",
+      "title": "Osprey Aether AG 70 Men\u2019s Hiking Backpack Anti-Gravity 70L Green/Black M",
+      "categories": [
+        {
+          "categoryId": "181379",
+          "categoryName": "Backpacks"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "16034",
+          "categoryName": "Camping & Hiking"
+        },
+        {
+          "categoryId": "181378",
+          "categoryName": "Hiking Backpacks"
+        }
+      ],
+      "price": {
+        "value": "265.00",
+        "currency": "USD"
+      },
+      "seller": "landcruiser39232",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-24T20:00:19.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods-golf",
+    "raw_payload": {
+      "itemId": "v1|267819050668|0",
+      "title": "Adams Idea a30S Hybrid 9 Iron Right Handed Pro Launch R Flex Platinum",
+      "categories": [
+        {
+          "categoryId": "115280",
+          "categoryName": "Golf Clubs"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181153",
+          "categoryName": "Golf Clubs & Equipment"
+        }
+      ],
+      "price": {
+        "value": "28.00",
+        "currency": "USD"
+      },
+      "seller": "hclark454",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T20:02:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods-golf",
+    "raw_payload": {
+      "itemId": "v1|237142368114|0",
+      "title": "NEW! TaylorMade Burner 2009 Gap Approach Wedge Regular Flex Graphite Shaft RH",
+      "categories": [
+        {
+          "categoryId": "115280",
+          "categoryName": "Golf Clubs"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181153",
+          "categoryName": "Golf Clubs & Equipment"
+        }
+      ],
+      "price": {
+        "value": "64.99",
+        "currency": "USD"
+      },
+      "seller": "treeguy1000",
+      "condition": "New",
+      "itemCreationDate": "2026-10-24T20:02:00.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods-golf",
+    "raw_payload": {
+      "itemId": "v1|206651116108|0",
+      "title": "COCA - COLA COMPANY LOGO GOLF BALL GREAT FOR ANY VINTAGE COLLECTION # 6.",
+      "categories": [
+        {
+          "categoryId": "18924",
+          "categoryName": "Golf Balls"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181153",
+          "categoryName": "Golf Clubs & Equipment"
+        }
+      ],
+      "price": {
+        "value": "5.00",
+        "currency": "USD"
+      },
+      "seller": "1lasvegastokens",
+      "condition": "Used",
+      "itemCreationDate": "2026-10-24T20:01:01.000Z"
+    }
+  },
+  {
+    "load_type": "incremental",
+    "batch_id": "batch_20261024_200415",
+    "ingestion_timestamp": "2026-10-24T20:04:15.909103+00:00",
+    "subcategory_partition": "sporting goods-golf",
+    "raw_payload": {
+      "itemId": "v1|800834149111|0",
+      "title": "Nike Classic Logo Dri-fit Black Adult One Size Adjustable Golf Sun Visor",
+      "categories": [
+        {
+          "categoryId": "158937",
+          "categoryName": "Golf Visors & Hats"
+        },
+        {
+          "categoryId": "888",
+          "categoryName": "Sporting Goods"
+        },
+        {
+          "categoryId": "1513",
+          "categoryName": "Golf"
+        },
+        {
+          "categoryId": "181130",
+          "categoryName": "Golf Clothing, Shoes & Accessories"
+        }
+      ],
+      "price": {
+        "value": "29.99",
+        "currency": "USD"
+      },
+      "seller": "jes3747",
+      "condition": "Pre-owned",
+      "itemCreationDate": "2026-10-24T20:00:58.000Z"
+    }
+  }
+]
